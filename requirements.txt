@@ -2,5 +2,4 @@ pandas
 streamlit
 altair
 numpy
-figure_factory 
 time
