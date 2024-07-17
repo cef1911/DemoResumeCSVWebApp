@@ -7,7 +7,6 @@ import numpy as np
 import time
 from PIL import Image
 
-
 # import pyplot as plt
 
 #import plotly as px
