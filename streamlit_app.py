@@ -129,9 +129,9 @@ www.franklydatascience.com
 """
 
 
-image = Image.open('images/rickfordstriperbass1.jpg')
+#image = Image.open('images/rickfordstriperbass1.jpg')
 
-st.image(image, caption='Legacy Parent with Two Striped Bass')
+#st.image(image, caption='Legacy Parent with Two Striped Bass')
 
 
 #image2 = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
