@@ -134,8 +134,8 @@ www.franklydatascience.com
 #st.image(image, caption='Legacy Parent with Two Striped Bass')
 
 
-#image2 = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
-#st.image(image2, caption='Legacy Parent with 13Lb Striped Bass')
+image2 = Image.open('images/JesseResume.jpeg')
+st.image(image2, caption='Jesse Resume')
 
 #image3 = Image.open('images/GregJ45LB.jpg')
 
