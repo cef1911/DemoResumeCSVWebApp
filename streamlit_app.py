@@ -1,11 +1,14 @@
 import streamlit as st
 
 
-
 """
-# Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
-# Teams on the Fishing Trip
-5 teams with 2 Kids each team
+# Welcome to Chris Franklin's StreamLit Web App for Deploying DataScience Projects!
+This is inspired from the StreamLit.io site.
+See the website for more info https://streamlit.io/
+
+Click the link to view a sample resume template web app
+
+https://acrobat.adobe.com/id/urn:aaid:sc:us:39641afc-f344-464a-8ebf-f5eaea866ace
 
 """
 
